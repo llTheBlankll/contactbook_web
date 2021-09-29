@@ -1,0 +1,7 @@
+.dropdown-toggle::after {
+    display:none;
+}
+
+.nav-item { 
+    float: right;
+}
