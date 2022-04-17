@@ -2,7 +2,7 @@
 Contact Book website version.
 
 
-### This is the website version of Contact Book python
+### This is the website version of Contact Book
 address book or a name and address book is a book or a database used for storing entries called contacts.
 Each contact entry usually consists of a few standard fields (for example: first name, last name, company name, address, telephone number, e-mail address, fax number, mobile phone number).
 
