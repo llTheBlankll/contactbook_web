@@ -151,7 +151,7 @@ if (isset($_GET["page"])) {
         </div>
     </div>
     <script src="../js/ui_save.js"></script>
-    <script src="../js/bootstrap.bundle.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
     <script src="https://kit.fontawesome.com/3904585a30.js" crossorigin="anonymous"></script>
 </body>
 <?php } ?>

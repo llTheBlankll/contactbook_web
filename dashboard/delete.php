@@ -93,6 +93,6 @@ if (isset($_GET["delete_id"]) && isset($_GET["confirm"]) && $_GET["confirm"] == 
             </div>
         </div>
     </div>
-    <script src="../js/bootstrap.bundle.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
 </body>
 </html>

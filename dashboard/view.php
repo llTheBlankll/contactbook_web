@@ -97,7 +97,7 @@ if (isset($_GET["view_id"])) {
             </div>
         </div>
     </div>
-    <script src="../js/bootstrap.bundle.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
 </body>
 
 </html>

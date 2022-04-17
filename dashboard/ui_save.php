@@ -121,7 +121,7 @@ if (isset($_POST["button_save"]) && isset($_POST["contact_alias"]) && isset($_PO
             </div>
         </div>
     </div>
-    <script src="../js/bootstrap.bundle.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
     <script src="https://kit.fontawesome.com/3904585a30.js" crossorigin="anonymous"></script>
 </body>
 <?php } ?>

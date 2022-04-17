@@ -59,6 +59,6 @@ require_once("../libraries/dashboard/get.php");
             </div>
         </div>
     </div>
-    <script src="../js/bootstrap.bundle.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
 </body>
 </html>
