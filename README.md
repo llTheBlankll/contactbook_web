@@ -12,4 +12,4 @@ The 'Settings' at user icon and the 'Clear all contacts' in 'Contacts' Dropdown 
 This project is my first large project so there will be so many bugs which I have noticed but have no time or motivation to fix.
 
 ## Preview
-Uploading 2022-06-14 17-54-03 (online-video-cutter.com).mp4…
+https://user-images.githubusercontent.com/50913405/173552385-2215d86a-b8a6-411f-8e4d-4d7f76006618.mp4
