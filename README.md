@@ -8,4 +8,8 @@ Each contact entry usually consists of a few standard fields (for example: first
 
 
 ### Notes
-The 'Settings' at user icon and the 'Clear all contacts' in 'Contacts' Dropdown is not yet finished in directory /dashboard because I do not have enough time.
+The 'Settings' at user icon and the 'Clear all contacts' in 'Contacts' Dropdown is not yet finished in directory /dashboard because I do not have enough time.  
+This project is my first large project so there will be so many bugs which I have noticed but have no time or motivation to fix.
+
+## Preview
+Uploading 2022-06-14 17-54-03 (online-video-cutter.com).mp4…
